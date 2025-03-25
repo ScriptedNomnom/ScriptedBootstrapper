@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.0",
+    "SoftwareVersion": "0",
     "SoftwareUrl":"https://cdn.discordapp.com/attachments/1353797990384402553/1353962042364661760/ScriptedExploit.zip?ex=67e38eea&is=67e23d6a&hm=aa8c5c6ffade6d96e031c7905efbf54f79059226f423a531123382174918a84c&",
-    "Status":"True",
-    "Changelog":"[+] added bootstrapper"
+    "Status":"False",
+    "Changelog":"[+] added nothing"
 }
